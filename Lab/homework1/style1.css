@@ -1,0 +1,79 @@
+*{
+	text-align: center;
+
+}
+
+body{
+
+	background: powderblue;
+}
+
+.header{
+	background: blue;
+	height: 200px;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+}
+
+.logo{
+	background: #666;
+	height: 50px;
+	width: 30%;
+	position: absolute;
+	top: 200px;
+	left: 0px
+}
+
+.nbar{
+	background: red;
+	height: 50px;
+	width: 70%;
+	position: absolute;
+	top: 200px;
+	right: 0px
+
+}
+
+.sbar{
+	background: green;
+	height: 400px;
+	width: 20%;
+	position: absolute;
+	top: 250px;
+	left: 0px;
+
+}
+
+.rbar{
+	background: green;
+	height: 400px;
+	width: 20%;
+	position: absolute;
+	top: 250px;
+	right: 0px;
+
+}
+
+.cont{
+	background: yellow;
+	height: 400px;
+	width: 60%;
+	position: absolute;
+	top: 250px;
+	left: 20%
+
+
+}
+
+.footer{
+	background: #333;
+	height: 80px;
+	width: 100%;
+	position: absolute;
+	top: 650px;
+	left: 0px;
+
+}
